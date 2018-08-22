@@ -4,4 +4,4 @@
 
 ## Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ggcOE25WO7o/0.jpg)](https://www.youtube.com/watch?v=ggcOE25WO7o)
+[![Thumbnail for youtube video](https://img.youtube.com/vi/ggcOE25WO7o/0.jpg)](https://www.youtube.com/watch?v=ggcOE25WO7o)
